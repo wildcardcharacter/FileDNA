@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">FileDNA</title>
+  <desc id="desc">Datei mit einer stilisierten DNA-Doppelhelix</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12233f"/>
+      <stop offset="1" stop-color="#09111f"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#66f0dc"/>
+      <stop offset="1" stop-color="#22b8d1"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c49aff"/>
+      <stop offset="1" stop-color="#8261ed"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="240" height="240" rx="54" fill="url(#bg)"/>
+  <path d="M65 42h79l47 47v119a12 12 0 0 1-12 12H65a12 12 0 0 1-12-12V54a12 12 0 0 1 12-12Z" fill="#172b49" stroke="#3c587a" stroke-width="5"/>
+  <path d="M144 43v34a12 12 0 0 0 12 12h34" fill="#233d61" stroke="#3c587a" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M104 96c48 18 48 48 0 66s-48 48 0 66" fill="none" stroke="url(#cyan)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M152 96c-48 18-48 48 0 66s48 48 0 66" fill="none" stroke="url(#violet)" stroke-width="10" stroke-linecap="round"/>
+  <g stroke="#e7f5ff" stroke-width="5" stroke-linecap="round" opacity=".9">
+    <path d="m100 102 56 0"/><path d="m86 119 84 0"/><path d="m86 139 84 0"/>
+    <path d="m86 159 84 0"/><path d="m86 179 84 0"/><path d="m100 198 56 0"/>
+  </g>
+  <circle cx="104" cy="96" r="6" fill="#9bffea"/>
+  <circle cx="152" cy="96" r="6" fill="#d6b8ff"/>
+  <circle cx="104" cy="228" r="6" fill="#9bffea"/>
+  <circle cx="152" cy="228" r="6" fill="#d6b8ff"/>
+</svg>
