@@ -70,7 +70,7 @@ This is an early alpha release. The interface and features may change. Feedback 
 
 ### License
 
-No license has been chosen for this project yet.
+FileDNA is licensed under the MIT License. See [LICENSE](LICENSE) for the full license text.
 
 ## Deutsch
 
@@ -132,4 +132,4 @@ Dies ist eine frühe Alpha-Version. Oberfläche und Funktionen können sich noch
 
 ### Lizenz
 
-Für dieses Projekt ist noch keine Lizenz festgelegt.
+FileDNA steht unter der MIT-Lizenz. Den vollständigen Lizenztext findest du in [LICENSE](LICENSE).
